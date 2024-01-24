@@ -1,9 +1,5 @@
 ## Uso de Blade y Layouts 🌐
 
-Bienvenidos a la segunda clase de Laravel profesional. En esta ocasión, nos enfocaremos en uno de los aspectos más cruciales de Laravel: el uso del motor de plantillas Blade y la estructuración de layouts. Estos elementos son fundamentales para una construcción eficiente y escalable de proyectos en Laravel.
-
-### 📚 Contenido de la Clase
-
 #### 1. Entendiendo Blade en Laravel
 
 Blade es el motor de plantillas de Laravel, diseñado para simplificar la tarea de escribir código HTML en aplicaciones PHP. Facilita la inyección de datos y la ejecución de lógica PHP de manera elegante y organizada.
@@ -87,5 +83,3 @@ Los layouts en Blade permiten definir una estructura base común para varias vis
 
 ![Pasted image 20240123185844](https://github.com/Mileccc/blade/assets/121825748/85a953c9-8114-4da1-b960-32456d15f5a1)
 
-
-En esta lección, hemos cubierto cómo Blade y los layouts en Laravel pueden transformar la manera en que construimos las interfaces de usuario en nuestras aplicaciones web. La próxima clase profundizará aún más en las características avanzadas de Blade y en cómo interactuar con otros componentes de Laravel.
